@@ -1,5 +1,5 @@
 # randomWalk
-plotting random steps on cartesian plane
+scatter-plotting random steps on cartesian plane
 
 invisible axes
 
